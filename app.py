@@ -8,7 +8,7 @@ import plotly.express as px
 # [설정] 복사한 구글 Apps Script 웹 앱 URL을 아래에 입력하세요.
 # 예시: "https://script.google.com/macros/s/AKfycb.../exec"
 # =====================================================================
-APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxqV2D3xJocojGOJargIr5ASgst1O-ET8JDZFv-sTuANEDEeYLhxDmRBy0Vaz3xN__cQQ/exec"
+APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyjvCB45usJ4sXS8dDaMexExhCx9gOPxRWCwS2vznn26IRD9gKg9aBJ2XV7r3gMDEOo3w/exec"
 
 st.set_page_config(page_title="팀 예산 관리 대시보드", page_icon="📊", layout="wide")
 
